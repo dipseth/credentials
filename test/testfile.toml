@@ -1,0 +1,11 @@
+# Credentials configuration for Agent Auto Load
+# This file is stored in a separate repository for security
+
+# OpenAI API credentials
+[openai]
+api_key = ""  # Your OpenAI API key
+
+# Database credentials
+[database]
+username = ""
+password = ""
